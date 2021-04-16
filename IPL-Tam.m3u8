@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:10
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTINF:10.0,
+
+http://garuda-cdnserver1.tk/live/606ffcb5820d2/123/6073020ac0147/6073020ac0147.ts
+
+http://garuda-cdnserver1.tk/live/606ffcb5820d2/123/6073020ac0147/6073020ac0147.ts
